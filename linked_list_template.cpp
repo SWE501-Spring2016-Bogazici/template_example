@@ -30,7 +30,7 @@ struct DList {
 	int count;
 
 public:
-	DList<D>() {
+	DList() {
 	    head=NULL;
 	    tail=NULL;
 	    count=0;
